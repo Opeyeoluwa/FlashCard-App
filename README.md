@@ -7,7 +7,7 @@ The first version in the development of an app that allows people use flashcards
 
 ### App Walk-though
 
-<img src="Screen_Recording_20220919_022238_Flashcard_1.gif" width=200><br>
+<img src="https://github.com/Opeyeoluwa/FlashCard-App/blob/main/Screen_Recording_20220920_092205_Flashcard_1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
