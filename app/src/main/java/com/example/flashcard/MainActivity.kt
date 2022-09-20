@@ -13,9 +13,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val button = findViewById<ImageView>(R.id.button)
+        val question = findViewById<TextView>(R.id.flashcard_question)
+        val ans = findViewById<TextView>(R.id.flashcard)
         val ans1 =  findViewById<TextView>(R.id.flashcard_answer)
         val ans2 = findViewById<TextView>(R.id.flashcard_answer2)
         val ans3 = findViewById<TextView>(R.id.flashcard_answer3)
+
+        question.setOnClickListener {
+            ans.isVisible = !ans.isVisible
+        }
 
         ans1.setOnClickListener {
             ans1.setBackgroundColor(Color.parseColor("#90ee90"))
