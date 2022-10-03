@@ -11,8 +11,6 @@ The first version in the development of an app that allows people use flashcards
 https://user-images.githubusercontent.com/96929543/193493157-ed9dbafd-2adb-42ce-b831-905f9aefdaaf.mp4
 
 
-<img src="https://thumbs.gfycat.com/DamagedEvenBasenji-mobile.mp4" width=200><br>
-
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
