@@ -7,7 +7,7 @@ The first version in the development of an app that allows people use flashcards
 
 ### App Walk-though
 
-<img src="https://gfycat.com/damagedevenbasenji" width=200><br>
+<img src="https://thumbs.gfycat.com/DamagedEvenBasenji-mobile.mp4" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
