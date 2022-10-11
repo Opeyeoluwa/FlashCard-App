@@ -6,7 +6,7 @@
 The app successfuly saves user inputed data and supports editing of Flashcard. User data is also retrieved
 
 ### App Walk-though
-https://github.com/Opeyeoluwa/FlashCard-App/blob/main/App%20demo.gif
+<img src="https://github.com/Opeyeoluwa/FlashCard-App/blob/main/App%20demo.gif" />
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
