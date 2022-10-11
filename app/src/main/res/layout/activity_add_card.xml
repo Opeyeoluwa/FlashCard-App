@@ -28,7 +28,7 @@
         android:inputType="textMultiLine" />
 
     <EditText
-        android:id="@+id/answer1"
+        android:id="@+id/wrongAnswer1"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_marginTop="250dp"
@@ -38,23 +38,13 @@
         android:inputType="textMultiLine" />
 
     <EditText
-        android:id="@+id/answer2"
+        android:id="@+id/wrongAnswer2"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_marginTop="350dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:hint="Enter a wrong option here"
-        android:inputType="textMultiLine" />
-
-    <EditText
-        android:id="@+id/answer3"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_marginTop="450dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:hint="Enter the correct option here"
         android:inputType="textMultiLine" />
 
     <ImageView
