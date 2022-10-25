@@ -2,12 +2,11 @@
 ## Lab 4
 
 ### App Description
-`TODO://` Add app description
+Complete flashcard app with all features. Users can add, edit and delete flashcards, have access to multiple options, interactive animation and overall fun.
 
 ### App Walk-though
 
 <img src="app_walkthrough.gif" width=200><br>
-
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
